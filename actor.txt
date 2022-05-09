@@ -2,3 +2,12 @@ RK
 RS
 AK
 sk
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+KA
+=======
+aK
+>>>>>>> Stashed changes
+=======
+aK
+>>>>>>> Stashed changes
